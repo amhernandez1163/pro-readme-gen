@@ -14,7 +14,13 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+## Description
+
+${data.description}
+
 `;
 }
 
 module.exports = generateMarkdown;
+
+// return a template literal string - title, name, url,
