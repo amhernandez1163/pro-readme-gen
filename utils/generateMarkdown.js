@@ -27,7 +27,7 @@ ${data.description}
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
 
-## Installation
+## Installation Instructions
 
 ${data.install}
 
@@ -37,19 +37,19 @@ ${data.usage}
 
 ## License
 
-${data.licenseType}
+[![license](https://img.shields.io/badge/license-${data.licenseType}-green)](https://shields.io)
 
-## Contributing
+## Contribution Guidelines
 
 ${data.contributionGuidelines}
 
-## Tests
+## Test Instructions
 
 ${data.testInstructions}
 
 ## Questions 
 
-Have any questions? Let's collaborate! Find me here: 
+Let's collaborate! Find me here for any questions or suggestions: 
 
 - GitHub: (https://github.com/${data.githubLink})
 - Email: (${data.email})

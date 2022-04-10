@@ -1,8 +1,8 @@
-# dlk;fasnadng
+# Professional README Generator
 
 ## Project Description
 
-sdafkjasdfnasdkl;f
+In the UTSA Coding Bootcamp's Week 9 Challenge, we were given a prompt to create a Professional README Generator for a Developer who wants to quickly create a professional README for a new project. The challenge came with started code provided by Xander Rapstine and Grace Choi on GitHub.
 
 ## Table of Contents
 
@@ -13,29 +13,29 @@ sdafkjasdfnasdkl;f
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
 
-## Installation
+## Installation Instructions
 
-asdfjkasdnfasi;dfn
+This is a command line application - please clone from GitHub then install the Inquirer npm package.
 
 ## Usage
 
-asdfjklasdfnasdklfhj
+Utilize the Professional README Generator when you want to quickly create a professional README for your new projects. 
 
 ## License
 
-MIT
+[![license](https://img.shields.io/badge/license-N/A-green)](https://shields.io)
 
-## Contributing
+## Contribution Guidelines
 
-asdfkjlasndfaksd;fhio
+This project is not open for contributions at this time. 
 
-## Tests
+## Test Instructions
 
-asfdlk;jsadfnasoijasdfnk
+Upon cloning the code from GitHub and installing the Inquirer npm package to your terminal, begin testing the app by typing node index in GitBash.
 
 ## Questions 
 
-Have any questions? Let's collaborate! Find me here: 
+Let's collaborate! Find me here for any questions or suggestions: 
 
 - GitHub: (https://github.com/amhernandez1163)
 - Email: (amhernandez1163@gmail.com)
